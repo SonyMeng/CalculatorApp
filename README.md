@@ -23,7 +23,7 @@ To use this application:
 1. Clone the repository: 
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/SonyMeng/CalculatorApp
 ```
 
 2. Open `index.html` in your browser.
